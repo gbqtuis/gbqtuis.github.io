@@ -8,7 +8,7 @@
 ### Master Students
    - MSc. Hernán Darío Reuda Bueno
    - Marlon Daniel Suárez Ruiz
-   - Johan Sebastán Robles
+   - Johan Sebastán Robles Páez
 
 ### Undergraduate Students
    - Heidy
