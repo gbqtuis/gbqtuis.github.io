@@ -4,8 +4,10 @@ proteins using computational simulations. The methods depend on the type of prob
 of quantum mechanical (QM) methods are used: semiempirical methods, density functional theory, post-Hartree-Fock methods such as MP2 and Coupled Cluster.
 Molecular mechanics (MM) and quantum mechanics (QM) methods are used to study processes in large molecules such as proteins. Chemotyping and QSAR methods are also
 implemented.\
-[gbqt(uis)](https://uis.edu.co/fc-gruinv-gbqt-cm-en/)\
-[gbqt(minciencias)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000682)
+Research group name: Theoretical Biochemistry Group (GBQT)\
+Code: COL0025639 Colciencias classification: A\
+Coordinator: Martha Cecilia Daza Espinosa\
+[gbqt(uis)](https://uis.edu.co/fc-gruinv-gbqt-cm-en/), [gbqt(minciencias)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000682)
 
 
 ## [Group Members](members.md)
