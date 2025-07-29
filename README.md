@@ -5,6 +5,10 @@ of quantum mechanical (QM) methods are used: semiempirical methods, density func
 Molecular mechanics (MM) and quantum mechanics (QM) methods are used to study processes in large molecules such as proteins. Chemotyping and QSAR methods are also
 implemented.
 
+## [Group Members](members.md)
+
+## [Publications](publications.md)
+
 ## Seminars 2025 II (10:00 h)
    14.07  Jhon Fredy Pérez Torres \
    21.07  Hernán Darío Rueda Bueno \
@@ -29,5 +33,5 @@ implemented.
    01.12 \
    15.12
 
-## [Group Members](members.md)
+
     
