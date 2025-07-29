@@ -6,7 +6,7 @@ Molecular mechanics (MM) and quantum mechanics (QM) methods are used to study pr
 implemented.
 
 Research group name: Theoretical Biochemistry Group (GBQT)\
-Code: COL0025639 Colciencias classification: A\
+Code: COL0025639 Colciencias classification: B\
 Coordinator: Martha Cecilia Daza Espinosa, [gbqt(uis)](https://uis.edu.co/fc-gruinv-gbqt-cm-en/), [gbqt(minciencias)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000682)
 
 
