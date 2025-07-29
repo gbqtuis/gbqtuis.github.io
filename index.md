@@ -18,13 +18,13 @@ The Theoretical Biochemistry Group (GBQT), researches at the microscopic level p
   22.09   Pablo \
   29.09   Johan
 
-  06.10
-  20.10
-  27.10
+  06.10 \
+  20.10 \
+  27.10 \
 
-  10.11
-  24.11
-  01.12
+  10.11 \
+  24.11 \
+  01.12 \
   15.12
 
 ## Prof. Jhon Fredy Pérez Torres
