@@ -29,5 +29,5 @@ The Theoretical Biochemistry Group (GBQT), researches at the microscopic level p
 
 ## Prof. Jhon Fredy Pérez Torres
 [Inorg. Chem. 63, 15016 (2024)](https://doi.org/10.1021/acs.inorgchem.4c01771)
-### Química Inorgánica II (UIS)
-[Inorganic Chemistry II (syllabus)](http://gbqtuis.github.io/main/syllabus-InorgChem-24732.pdf)
+### Inorganic Chemistry II (UIS)
+[Syllabus](https://github.com/gbqtuis/gbqtuis.github.io/blob/main/syllabus-InorgChemII-24732.pdf)
