@@ -9,7 +9,7 @@ The Theoretical Biochemistry Group (GBQT), researches at the microscopic level p
 
   04.08   Pedro \
   11.08   Brayan \
-  18.08   *Holiday* \
+  18.08   *-Holiday-* \
   25.08   Dayalma 
 
   01.09   Andrés \
