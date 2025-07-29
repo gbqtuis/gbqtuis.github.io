@@ -7,7 +7,7 @@ implemented.
 
 ## Seminars 2025 II (10:00 h)
    14.07  Jhon Fredy Pérez Torres \
-   21.07  Hernán Rueda B. \
+   21.07  Hernán Darío Rueda Bueno \
    28.07  Marlon Daniel Suárez Ruis
   
    04.08  Pedro \
