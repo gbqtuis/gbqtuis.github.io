@@ -30,7 +30,6 @@ Coordinator: Martha Cecilia Daza Espinosa, [gbqt(uis)](https://uis.edu.co/fc-gru
 
    06.10 \
    20.10  Johan Sebastián Robles Páez \
-   20.10 \
    27.10 
 
    10.11 \
