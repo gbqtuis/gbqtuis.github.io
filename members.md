@@ -6,7 +6,7 @@
    - Dr. Jhon Fredy Pérez Torres [->](https://profesores.uis.edu.co/jhon-fredy-perez-torres-es/) [-->](https://gbqtuis.github.io/jfpt)
 
 ### Master Students
-   - MSc. Hernán Darío Reuda Bueno
+   - MSc. Hernán Darío Rueda Bueno
    - Marlon Daniel Suárez Ruiz
    - Johan Sebastán Robles Páez
 
