@@ -1,0 +1,193 @@
+% Paquetes describiendo y usados en el documento %
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{fullpage}
+\usepackage[T1]{fontenc}
+\usepackage{parskip}
+\usepackage[version=4]{mhchem}
+\usepackage{chemfig}
+\usepackage{pstricks}
+\usepackage{plain}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{changepage}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{scalerel}
+\usepackage{pict2e}
+\usepackage{tkz-euclide}
+\usetikzlibrary{calc, arrows, decorations}
+\definecolor{applegreen}{rgb}{0.55, 0.71, 0.0}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{babel}
+\setlength{\parskip}{-0.03cm}
+
+\pgfdeclaredecoration{ddbond}{initial}{
+  \state{initial}[width=4pt]{
+    \pgfpathlineto{\pgfpoint{4pt}{0pt}}
+    \pgfpathmoveto{\pgfpoint{2pt}{2pt}}
+    \pgfpathlineto{\pgfpoint{4pt}{2pt}}
+    \pgfpathmoveto{\pgfpoint{4pt}{0pt}}
+  }
+  \state{final}{
+    \pgfpathlineto{\pgfpointdecoratedpathlast}
+  }
+}
+\tikzset{lddbond/.style={decorate, decoration=ddbond}}
+\tikzset{rddbond/.style={decorate, decoration={ddbond, mirror}}}
+
+\newcommand*{\doi}[1]{\href{http://dx.doi.org/#1}{#1}}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue,filecolor=blue, citecolor=blue}
+
+\renewcommand{\baselinestretch}{1.5}
+\renewcommand\refname{Referencias}
+\renewcommand\contentsname{Contenido}
+\renewcommand\tablename{Tabla}
+\DeclareUnicodeCharacter{2009}{FIXME}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Márgenes del documento %
+\usepackage{vmargin}
+\setpapersize{A4}
+\setmargins{2.5cm}        % margen izquierdo
+{1 cm}                    % margen superior
+{16.5cm}                  % anchura del texto
+{23.4cm}                  % altura del texto
+{11pt}                    % altura de los encabezados
+{1.5cm}                     % espacio entre el texto y los encabezados
+{0pt}                     % altura del pie de página
+{2cm}           
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Omitir %
+\title{´}
+\author{Heidy...}
+\date{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Inicio del documento %
+\begin{document}
+
+%\begin{titlepage}
+
+  \begin{center}
+
+      %\vspace{0.1cm}
+	  \LARGE \textbf{C\'alculo de los espinores de campo ligando del \ce{ReF6} a partir de medidas experimentales}
+      
+      \vspace{1.3cm}
+      \Large \textbf{Autor:}
+      \vspace{0.5cm}
+      
+      {\Large Heidy...}
+      
+      \vspace{1.3cm}
+      
+      \Large \textbf{Director:}
+      \vspace{0.5cm}
+      
+      \Large Prof. Jhon Fredy Pérez Torres
+      
+      \vspace{1.3cm}
+      
+      \begin{figure}[h]
+          \centering
+          \includegraphics[scale=0.6]{UIS.png}
+      \end{figure}
+      
+      {\large Universidad Industrial de Santander}\\
+      \vspace{0.1cm}
+      {\large Facultad de Ciencias}\\
+      \vspace{0.1cm}
+      {\large Escuela de Qu\'imica}\\
+      \vspace{0.1cm}
+      {\large Grupo de Bioqu\'imica Te\'orica y Computacional}\\
+      \vspace{0.1cm}
+      {\large Bucaramanga}\\
+      \vspace{0.1cm}
+      {\large Agosto--2024}
+  \end{center}
+%\end{titlepage}
+
+\newpage
+
+\tableofcontents
+\newpage
+
+\section{Introducci\'on}
+Los complejos de metales de transición son compuestos en los que un ion metálico central se encuentra rodeado
+y enlazado a uno o más ligandos, que son átomos, iones o moléculas donadores de pares de electrones. As\'i, el
+metal de transici\'on es un \'acido de Lewis y los ligandos bases de Lewis.
+La naturaleza de estos enlaces y la disposición geométrica de los ligandos
+alrededor del ion metálico influyen en las propiedades químicas y físicas de estos compuestos.
+La aplicaci\'on de la ecuación de Schrödinger en conjunto con la teoría de perturbaciones a estos compuestos
+da origen a una teor\'ia que se conoce con dos nombres, la Teor\'ia del Campo Cristalino (TCC) que se aplica a
+compuestos i\'onicos no conductores, y la Teor\'ia del Campo Ligando (TCL) que se aplica a compuestos moleculares.
+En ambos casos el objetivo es estudiar las propiedades de los electrones en orbitales d del metal de transici\'on.
+La diferencia entre la TCC y TCL es sutil \cite{Smith2011} y por tanto en este documento nos referiremos todo el
+tiempo a la TCL indistintamente a si se aplica a s\'olidos ionicos o compuestos moleculares.
+La TCL proporciona información valiosa sobre la naturaleza del enlace metal-ligando y sobre las propiedades \'opticas
+y magnéticas de los complejos.
+
+\section{Plantemiento del problema}
+La TCL se basa en la mecánica cuántica no relativista, de all\'i que sus resultados sean exitosos en la interpretación
+de las propiedades de complejos que involucran metales de transición de la primera serie, los elementos 3d.
+Naturalmente cuando se aplica a complejos de metales de transición de la segunda serie (4d), y en especial
+de la tercera serie (5d), se encuentran desviaciones significativas.
+Obviamente una de las principales limitaciones de la TCL es su incapacidad para explicar de manera precisa los efectos
+que se derivan del acoplamiento espín-órbita, que es un fenómeno de gran importancia en átomos pesados.
+Estos efectos influyen en la estructura electrónica de los átomos y, por consiguiente, en las propiedades de los
+compuestos que forman.
+Un ejemplo claro del fracaso de la TCL estandar en metales 5d es el hexafluoruro de renio (\ce{ReF6}), un complejo molecular que presenta dos
+transiciones d-d en lugar de una como lo predice la teor\'ia para complejos octa\'edricos ${\rm d}^1$.
+Para tratar de remediar el problema, algunos autores optaron por incorporar la interacci\'on-esp\'in orbita en la TCL,
+logrando explicar el por qu\'e se observan dos transiciones electronicas d-d, pero no pudieron explicar de manera satisfactoria
+el momento dipolar magn\'etico efectivo del \ce{ReF6} \cite{Moffitt1959,Selig1962}. Aunque el uso de funciones de onda relativista en
+la teor\'ia del campo ligando se remonta a 1960 \cite{Moffitt1959,Liehr1960,Wybourne1965,Basu1982},
+no se encuentra en la literatura una teor\'ia estrictamente relativista, tal vez por la falta de datos experimentales de la \'epoca
+que insentivara el desarrollo de la teor\'ia, o la falta de poder computacional, no lo sabemos.
+El problema central de esta investigación es la ausencia de una teor\'ia actualizada que explique de manera
+consistente y satisfactoria las propiedades ópticas y magnéticas de complejos de metales de transición de la
+tercera serie, donde los efectos relativistas son fundamentales \cite{Neese1998}.
+El grupo de investigaci\'on en Bioqu\'imica Te\'orica y Computacional ha iniciado el desarrollo de un marco te\'orico que en principio
+permite describir satisfactoriamente las propiedades \'opticas y magn\'eticas de \'atomos 5d$^1$ en campos octa\'edricos \cite{jperez2024a}.
+La teor\'ia relativista del campo de los ligandos (TRCL) parte de la ecuación de Dirac \cite{Dirac1928}, y a diferencia de la ecuaci\'on
+de Schr\"odinger que emplea orbitales, emplea espinores de Dirac.
+Este hecho es una de las principales diferencias entre ambas teor\'ias. Por ejemplo, para complejos octa\'edricos, en la TCL estandar
+los orbitales de campo ligando, conocidos como orbitales $t_{2g}$ y $e_g$, no dependen del par\'ametro de campo $Dq$. Son combinaciones
+lineales fijas de los orbitales d. La TRCL predice que los espinores de campo ligando $\gamma_8$ y $\gamma_7$ dependen no solo del
+par\'ametro de campo $Dq$, si no que tambi\'en depende de la constante de acomplamiento esp\'in-\'orbita $\xi_{n{\rm d}}$ y de la
+raz\'on relativista $p/q$ \cite{jperez2024a}.
+En esta tesis se pretende calcular los espinores de campo ligando del hexafluoruro de renio a partir de medidas experimentales,
+espec\'ificamente a partir de las energ\'ias de las transiciones d-d observadas en el espectro de absorci\'on \cite{Rotger1999}
+y de la susceptibilidad magn\'etica \cite{Selig1962}.
+
+\section{Objetivos}
+
+\subsection{Objetivo general}
+
+\subsection{Objetivos espec\'ificos}
+
+\section{Marco te\'orico}
+
+\section{Metodolog\'ia}
+
+\section{Resultados esperados}
+
+\section{Cronograma de actividades}
+
+\section{Presupuesto}
+
+\newpage
+\bibliographystyle{unsrturl}
+\bibliography{ref.bib}
+
+\end{document}
