@@ -19,8 +19,8 @@ Coordinator: Martha Cecilia Daza Espinosa, [gbqt(uis)](https://uis.edu.co/fc-gru
    21.07  Hernán Darío Rueda Bueno \
    28.07  Marlon Daniel Suárez Ruis
   
-   04.08  Pedro Andrés Cacua\
-   11.08  Brayan Andrey \
+   04.08  Pedro Andrés Cacua \
+   11.08  Brayan Andrey González Barajas \
    25.08  Dayalma Bonet Serrano
 
    01.09  Andrés Peñaloza Avella \
