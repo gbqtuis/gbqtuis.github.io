@@ -8,7 +8,7 @@
 ### Master Students
    - MSc. Hernán Darío Rueda Bueno
    - Marlon Daniel Suárez Ruiz
-   - Johan Sebastán Robles Páez
+   - Johan Sebastián Robles Páez
 
 ### Undergraduate Students
    - Pedro Andrés Guzmán Cacua
