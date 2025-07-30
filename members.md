@@ -11,8 +11,9 @@
    - Johan Sebastán Robles Páez
 
 ### Undergraduate Students
-   - Heidy
-   - Leider
-   - Dayalma
-   - Andrés
-   - Brayan
+   - Pedro Andrés Guzmán Cacua
+   - Heidy Liliana Alfonso Ortíz
+   - Leider Gutierrez Herrera
+   - Dayalma Bonet Serrano
+   - Andrés Felipe Peñaloza Avella
+   - Brayan Andrey González Barajas
