@@ -22,7 +22,7 @@ Coordinator: Martha Cecilia Daza Espinosa, [gbqt(uis)](https://uis.edu.co/fc-gru
    11.08  Pedro Andrés Guzmán Cacua \
    25.08  Brayan Andrey González Barajas 
    
-   01.09  Dayalma Bonet Serrano
+   01.09  Dayalma Bonet Serrano \
    08.09  Andrés Peñaloza Avella \
    15.09  Heidy Liliana Alfonso Ortíz \
    22.09  Leider Gutierrez Herrera \
