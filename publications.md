@@ -7,3 +7,5 @@
   [J. Phys. Chem. A 129, 3844 (2025)](https://doi.org/10.1021/acs.jpca.5c01052)
 - Relativistic Effects in Ligand Field Theory (I): Optical Properties of d<sup>1</sup> Atoms in O<sub>h</sub><sup>′</sup> Symmetry.\
   [Inorg. Chem. 63, 15016 (2024)](https://doi.org/10.1021/acs.inorgchem.4c01771)
+- QTAIM based descriptors for the classification of acrylates.\
+  [Theor. Chem. Acc. 142, 131 (2023)](https://doi.org/10.1007/s00214-023-03034-4)
