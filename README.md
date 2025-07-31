@@ -8,10 +8,10 @@ implemented.
 
 Research group name: Theoretical Biochemistry Group (GBQT)\
 Code: COL0025639 Colciencias classification: B\
-Address: Carrera 27, calle 9, Bucaramanga 680002, Colombia \
-         Universidad Industrial de Santander \
-         Escuela de Química, Ed. Camilo Torres \
-Coordinator: Martha Cecilia Daza Espinosa, [gbqt(uis)](https://uis.edu.co/fc-gruinv-gbqt-cm-en/), [gbqt(minciencias)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000682)
+Address: Universidad Industrial de Santander (Carrera 27, Calle 9, Bucaramanga 680002,
+Colombia), Escuela de Química, Ed. Camilo Torres \
+Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
+[gbqt(uis)](https://uis.edu.co/fc-gruinv-gbqt-cm-en/), [gbqt(minciencias)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000682)
 
 
 ## [Group Members](members.md)
