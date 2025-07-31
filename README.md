@@ -6,8 +6,6 @@ of quantum mechanical (QM) methods are used: semiempirical methods, density func
 Molecular mechanics (MM) and quantum mechanics (QM) methods are used to study processes in large molecules such as proteins. Chemotyping and QSAR methods are also
 implemented.
 
-Research group name: Theoretical Biochemistry Group (GBQT)\
-Code: COL0025639 Colciencias classification: B\
 Address: Universidad Industrial de Santander (Carrera 27, Calle 9, Bucaramanga 680002,
 Colombia), Escuela de Química, Ed. Camilo Torres \
 Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
