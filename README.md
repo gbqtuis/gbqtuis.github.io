@@ -21,7 +21,7 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
    21.07  Hernán Darío Rueda Bueno \
    28.07  Marlon Daniel Suárez Ruis
   
-   11.08  Pedro Andrés Guzmán Cacua \
+   04.08  Pedro Andrés Guzmán Cacua \
    25.08  Brayan Andrey González Barajas 
    
    01.09  Dayalma Bonet Serrano \
