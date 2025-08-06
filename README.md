@@ -7,7 +7,7 @@ Molecular mechanics (MM) and quantum mechanics (QM) methods are used to study pr
 implemented.
 
 Address: Universidad Industrial de Santander (Carrera 27, Calle 9, Bucaramanga 680002,
-Colombia), Escuela de Química, Ed. Camilo Torres \
+Colombia), Escuela de Química, Ed. Lavoratorios Livianos 18 \
 Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
 [gbqt(uis)](https://uis.edu.co/fc-gruinv-gbqt-cm-en/), [gbqt(minciencias)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000682)
 
