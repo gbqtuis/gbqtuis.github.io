@@ -28,7 +28,7 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
    08.09  Andrés Peñaloza Avella \
    15.09  Heidy Liliana Alfonso Ortíz \
    22.09  Leider Gutierrez Herrera \
-   29.09  Pablo Restrepo Rodas
+   29.09  Dayalma Bonet Serrano
 
    06.10 \
    20.10  Johan Sebastián Robles Páez \
