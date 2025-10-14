@@ -32,7 +32,7 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
 
    06.10 \
    20.10 Pedro Andrés Guzmán Cacua \
-   27.10 Johan Sebastián Robles Páez \
+   27.10 Johan Sebastián Robles Páez 
 
    10.11 \
    24.11 \
