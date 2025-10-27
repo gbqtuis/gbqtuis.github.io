@@ -35,7 +35,7 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
    27.10 Johan Sebastián Robles Páez 
 
    10.11 Astrid Tatiana Carreño Santos \
-   24.11 \
+   24.11 Marlon Daniel Suárez Ruis \
    01.12 
    
 ## [Repository](repository.md)
