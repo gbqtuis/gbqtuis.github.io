@@ -19,10 +19,10 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
 ## Seminars 2026 II (8:00 h)
    13.02  Pedro Andrés Guzmán Cacua \
    20.02 \
-   27.02 \ 
+   27.02  
   
    06.03 \
    13.03 \
    20.03 \
-   27.03 \
+   27.03 
    
