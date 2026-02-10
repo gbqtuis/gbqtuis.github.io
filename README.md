@@ -16,26 +16,13 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
 
 ## [Publications](publications.md)
 
-## Seminars 2025 II (10:00 h)
-   14.07  Jhon Fredy Pérez Torres \
-   21.07  Hernán Darío Rueda Bueno \
-   28.07  Marlon Daniel Suárez Ruis
+## Seminars 2026 II (8:00 h)
+   13.02  Pedro Andrés Guzmán Cacua \
+   20.02 \
+   27.02 \ 
   
-   04.08  Pedro Andrés Guzmán Cacua \
-   25.08  Brayan Andrey González Barajas 
+   06.03 \
+   13.03 \
+   20.03 \
+   27.03 \
    
-   01.09  Dayalma Bonet Serrano \
-   08.09  Andrés Peñaloza Avella \
-   15.09  Heidy Liliana Alfonso Ortíz \
-   22.09  Leider Gutierrez Herrera \
-   29.09  Dayalma Bonet Serrano
-
-   06.10 \
-   20.10 Pedro Andrés Guzmán Cacua \
-   27.10 Johan Sebastián Robles Páez 
-
-   10.11 Astrid Tatiana Carreño Santos \
-   24.11 Marlon Daniel Suárez Ruis \
-   01.12 
-   
-## [Repository](repository.md)
