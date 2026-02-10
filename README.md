@@ -17,8 +17,8 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
 ## [Publications](publications.md)
 
 ## Seminars 2026 I (8:00 h)
-   13.02  Pedro Andrés Guzmán Cacua \
-   20.02 \
+   13.02 Pedro Andrés Guzmán Cacua \
+   20.02 Johan Sebastián Robles Páez \
    27.02  
   
    06.03 \
