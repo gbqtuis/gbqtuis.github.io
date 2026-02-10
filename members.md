@@ -16,3 +16,4 @@
    - Brayan Andrey González Barajas
    - Dayalma Bonet Serrano
    - Heidy Liliana Alfonso Ortíz
+   - Leonardo Shánchez Ariza
