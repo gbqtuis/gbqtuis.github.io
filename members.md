@@ -6,12 +6,11 @@
    - Dr. Jhon Fredy Pérez Torres [->](https://profesores.uis.edu.co/jhon-fredy-perez-torres-es/) [-->](https://gbqtuis.github.io/jfpt)
 
 ### Master Students
-   - MSc. Hernán Darío Rueda Bueno
+   - Pedro Andrés Guzmán Cacua
    - Marlon Daniel Suárez Ruiz
    - Johan Sebastián Robles Páez
 
 ### Undergraduate Students
-   - Pedro Andrés Guzmán Cacua
    - Heidy Liliana Alfonso Ortíz
    - Leider Gutierrez Herrera
    - Dayalma Bonet Serrano
