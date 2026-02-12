@@ -16,13 +16,13 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
 
 ## [Publications](publications.md)
 
-## Seminars 2026 I (8:00 h)
-   13.02 Pedro Andrés Guzmán Cacua \
-   20.02 Johan Sebastián Robles Páez \
-   27.02 Heidy Liliana Alfonso Ortíz
+## Seminars 2026 I (11:15 h)
+   12.02 Pedro Andrés Guzmán Cacua \
+   19.02 Johan Sebastián Robles Páez \
+   26.02 Heidy Liliana Alfonso Ortíz
   
-   06.03 Brayan Andrey González Barajas \
-   13.03 Andrés Felipe Peñaloza Avella \
-   20.03 Dayalma Bonet Serrano \
-   27.03 Astrid Tatiana Carreño Santos
+   05.03 Brayan Andrey González Barajas \
+   12.03 Andrés Felipe Peñaloza Avella \
+   19.03 Dayalma Bonet Serrano \
+   26.03 Astrid Tatiana Carreño Santos
    
