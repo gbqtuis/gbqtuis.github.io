@@ -22,10 +22,11 @@ Coordinator: Martha Cecilia Daza Espinosa, mcdaza (at) uis.edu.co \
    23.04 Juan Sebastián Serrano \
    30.04 -- 
    
-   07.05 Brayan Andrey Gonzáles Barajas
+   07.05 Brayan Andrey Gonzáles Barajas \
    14.05 Heidy Liliana Alfonso Ortíz \
    21.05 Dayalma Bonet Serrano \
-   28.05 Johan Sebastián Robles Páez \
+   28.05 Johan Sebastián Robles Páez
+   
    04.06 Pedro Andrés Guzmán Cacua
 
 ## Seminars 2026 Ia (11:15 h)
